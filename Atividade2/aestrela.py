@@ -147,4 +147,4 @@ print(f'Total cost: {cost}')
 
 
 
-#obs: não é 100% autoral
+#obs: codigo não é 100% autoral
